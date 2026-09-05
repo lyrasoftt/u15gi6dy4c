@@ -2,9 +2,9 @@
   "_comment": "Downloader X reads this file. Edit it, run  python deploy.py  then push repo/ to github.com/lyrasoftt/downloader-x . Every installed copy picks up the change on its next start - no new build.",
   "_moved_to": "To move every installed copy to a new address, add  \"moved_to\": \"https://new-address\"  while this address still answers, then sign and push. The app follows it once and remembers it.",
   "updated": "2026-09-05",
-  "seq": 1,
-  "signed": "2026-09-05T04:17:20Z",
-  "update_required": false,
-  "update_message": "",
-  "sig": "QRQhmQitFGxlf4S91e8E5AZiBm86ot00pdmKEnz02NKq+ajHZTpQMf+RY7HJLwhxwBqWxR8FOV3b+kzbIWW3Me+KyIL2OZEIg7X2by8KOPByZCzg/u7Ye8PTZAdf2OLEnrGPGcPkJc6fSwziwIPyfTPQw0XYlEhnESl563hK56EISJFWRK2UtUMzGO6A55Es9V+cdDPTaQJ2J85N8mlXcCsKtk2n9S0VyAuKJrWoMuuaSY4XyrOlxPtYP8cYfJuMFGLOJbObwJ+aLbQyn0C9eIw595yVLBGsJ4+7J/QQah3nkVY6ae1P5d3a0lZUM6rZrrzrBg0HThzvWaY+kgCEhA=="
+  "seq": 2,
+  "signed": "2026-09-05T04:38:08Z",
+  "update_required": true,
+  "update_message": "Guvenlik testi - uzaktan kilitleme demosu.",
+  "sig": "bq/GBS0hwSU4NdeOoQo05JLjgBPJOvh0KW2AD+oXD+h/i1CA7/qkQDM/e8ulb+ywiVtC8wZYKlG1aTfFEnOknQGeWGXLg13yDHtjd0LlSR4xRl/aHZ5KEwf4lyKiyO6LprZxVgdNVuagynEk7LQopxOR3eTAS0R/2robK4gdl0UxiZ1OI+XBlPqzGWzG+8yCDjMSdO3MtFoaac3adzalaI8yKoa3te+DG8djcjKSFy/iqy/rBEZdFbz+miVJdO8XKZlzhiwiyFstFk+4OAyDEIDZLCe0FPfPu9Xlvu7YC3Y1U5sIQVzS1I8QyvHVmc4st6H7qjOtwPNI31qKE3XXhQ=="
 }
