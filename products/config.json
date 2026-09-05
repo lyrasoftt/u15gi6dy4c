@@ -2,9 +2,9 @@
   "_comment": "Downloader X reads this file. Edit it, run  python deploy.py  then push repo/ to github.com/lyrasoftt/downloader-x . Every installed copy picks up the change on its next start - no new build.",
   "_moved_to": "To move every installed copy to a new address, add  \"moved_to\": \"https://new-address\"  while this address still answers, then sign and push. The app follows it once and remembers it.",
   "updated": "2026-09-05",
-  "seq": 2,
-  "signed": "2026-09-05T04:38:08Z",
-  "update_required": true,
-  "update_message": "Guvenlik testi - uzaktan kilitleme demosu.",
-  "sig": "bq/GBS0hwSU4NdeOoQo05JLjgBPJOvh0KW2AD+oXD+h/i1CA7/qkQDM/e8ulb+ywiVtC8wZYKlG1aTfFEnOknQGeWGXLg13yDHtjd0LlSR4xRl/aHZ5KEwf4lyKiyO6LprZxVgdNVuagynEk7LQopxOR3eTAS0R/2robK4gdl0UxiZ1OI+XBlPqzGWzG+8yCDjMSdO3MtFoaac3adzalaI8yKoa3te+DG8djcjKSFy/iqy/rBEZdFbz+miVJdO8XKZlzhiwiyFstFk+4OAyDEIDZLCe0FPfPu9Xlvu7YC3Y1U5sIQVzS1I8QyvHVmc4st6H7qjOtwPNI31qKE3XXhQ=="
+  "seq": 3,
+  "signed": "2026-09-05T04:51:50Z",
+  "update_required": false,
+  "update_message": "",
+  "sig": "MwXybHih3kd10kBsua+w6K9LjjyfbgD+1oUQ+tCATfF8z8Fz16MmJqduDp0r4cFTiG88VuSg34dyz8HBlocAn2D3UN98b2nG0mbp2kEdouPVwgPMD6/XQSyRWlQW5Ovgkj+TYcgEW06LgXz5pPANQUNfh+vU/rNbvwPTS5+TuZ+4DStdSecVCRbiy/vVP404E+iRMPjy9V9PtOiNOceUiucPQ3FlVjf45drX0hlInrxE+rSx7lvKo2ZvssiMCJ3Ak+enC6sq/0ut8Djqv7TLxSuNeLnzlZRCFrAKuztrb4E75QnWPtA2E3TruZnjfXz/sxv8yovQz26H0ndjAdsxvA=="
 }
