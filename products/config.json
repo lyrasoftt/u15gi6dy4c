@@ -2,9 +2,9 @@
   "_comment": "Edit locally, run  python deploy.py  then push repo/. Installed copies pick it up on their next start - no new build.",
   "_moved_to": "To move every installed copy to a new address, add  \"moved_to\": \"https://new-address\"  while this address still answers, then sign and push. The app follows it once and remembers it.",
   "updated": "2026-09-05",
-  "seq": 7,
-  "signed": "2026-09-05T05:07:25Z",
-  "update_required": true,
-  "update_message": "Update required. Please update the software to continue.",
-  "sig": "RjJOhTNnyzUen1Ym6Q7isV4MmPhsPIxi0rACoYc+2ZrbQ+KwroHkCY5L2di3jS1ES7cCn2QrVYGmvxKF+VHsdIu/+GZx4LOBjVzhr7A4JtkaVSFcUCzcRrTs1uhlq/jukVmzfbsRTaK9H4tyglcR2lwsCs8j3FjGrKJm8Bm9DUhhMbEi9H+I68M+DNundXUG5tEth3wV13Hq37cd7h28vmyJ8QU4ykZuKj4kO55fMLFWkw22Xj/AP85TLfXmT9PZG6LKQxK+odC3tR8CxCmEn3FLunPBdIWfoU/7EydT8dhIf14TLbSaw0hfXLnWxY2Jwqsnh7SNqY3HaqPfG1NDvQ=="
+  "seq": 8,
+  "signed": "2026-09-05T05:07:31Z",
+  "update_required": false,
+  "update_message": "",
+  "sig": "BuwMPWmM15hYsyYlSHZQ13uy4ftbIssG5pET0BHx/Wnq1fh2S0tkgBtY9sTQtxfZjY7+i0lLZPhgAMgo8zi1Nrnk1xfdyTguM3QaGJjH4OY0RvsBJLB9QBz+CrfLQDKJ9OBxD8BqU+nZyzBCdhUUUQQMn+5vrboCCNCisLXY0fo5o1K7fr7csSJct/LvSWGi1XTJfla9PcoTJJDLZwLj3oUa+6FsVqAUmt4dmCzXSje879l4z93GoxMfHP9eiI/pNUQ+RJ6se1TxoDQN4B+uDncIDPIO4QkYPHFvu84L17nFOTmoD9du1DzIqTI18K9cdi2GNYdQqam8nmwR/LL0MA=="
 }
